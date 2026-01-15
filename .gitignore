@@ -1,0 +1,9 @@
+# Temp files
+nul
+tmpclaude-*
+
+# IDE
+.idea/
+
+# Claude local settings
+.claude/
